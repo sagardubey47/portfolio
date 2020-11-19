@@ -1,0 +1,24 @@
+
+:root{
+    --mainColor:#46344e;
+    --secondryColor: #382a3f;
+
+    --borderColor:#1d1520;
+
+    --mainText: #fff;
+    --secondryText: #eeeeee;
+
+    --themeDotBorder: #fff;
+
+    --previewBg: rgba(75, 55, 83, 0.8);
+    --previewShadow: #82589F;
+    --cardColor: #82589F ;
+    --cardShadow: #7a40a3;
+    --infoColor: rgb(230, 203, 235);
+    --previewBorder: #17a2b8;
+
+    --buttonColor: #7a40a3;
+    --buttonBorder: black;
+
+    --inputBackground: rgb(230, 199, 240);
+}
